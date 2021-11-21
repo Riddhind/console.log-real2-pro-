@@ -1,0 +1,14 @@
+h1{
+   font-size: 30px; 
+}
+
+body{
+    background: linear-gradient(#f6fc9a 30%, #ddfc8d 60%, #abff85 150% );
+}
+
+hr{
+    color: black;
+}
+h4{
+    font-size: 25px;
+}
